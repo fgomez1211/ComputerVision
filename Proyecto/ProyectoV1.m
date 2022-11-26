@@ -42,7 +42,7 @@ objetos=num-1;
 
 %Encuentra el numero y el objeto. Crea un BoundingBox alreder de los
 %mismos.
-for k = 2:4
+for k = 2:length(stats)
     thisBB = stats(k).BoundingBox;
     rectangle('Position',thisBB,'EdgeColor','b','LineWidth',1);
 end
