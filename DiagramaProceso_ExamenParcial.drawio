@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2022-11-30T02:14:21.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uR_e61smSLBEHdhPyZ3B" version="20.6.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="866" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="B-otEjHW6JDtHvaltUW4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="B-otEjHW6JDtHvaltUW4-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lectura de Imagen&lt;br&gt;&#39;&lt;b&gt;frame&lt;/b&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-0" target="B-otEjHW6JDtHvaltUW4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-0" value="Transformar de RGB a Gray&lt;br&gt;&#39;&lt;b&gt;ImgGray&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-2" target="B-otEjHW6JDtHvaltUW4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-2" value="Binarización de Imagen (solo 1 y 0)&lt;br&gt;&#39;&lt;b&gt;BW&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-4" target="B-otEjHW6JDtHvaltUW4-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-4" value="Complemento de la imagen BW&lt;br&gt;&#39;&lt;b&gt;BW2&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-6" target="B-otEjHW6JDtHvaltUW4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-6" value="Cálculo del área y radio externo complementada&lt;br&gt;&#39;&lt;b&gt;area&lt;/b&gt;&#39; y &#39;&lt;b&gt;radio&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-8" target="B-otEjHW6JDtHvaltUW4-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-8" value="Aplicación de Convex Hull&lt;br&gt;&#39;im2&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-10" target="B-otEjHW6JDtHvaltUW4-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-10" value="Erosión: Disk, 25.&lt;br&gt;&#39;im3&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-12" target="B-otEjHW6JDtHvaltUW4-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-12" value="Remoción de área entre BW2 e im3.&lt;br&gt;&#39;BW2&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B-otEjHW6JDtHvaltUW4-14" target="B-otEjHW6JDtHvaltUW4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-14" value="Identificación de objetos&lt;br&gt;&#39;&lt;b&gt;l , n&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-otEjHW6JDtHvaltUW4-16" value="Despliegue de Resultado:&lt;br&gt;&#39;El engranaje tiene &#39;&lt;b&gt;n&lt;/b&gt;&#39; dientes y un radio externo de &#39;&lt;b&gt;radio&lt;/b&gt;&#39; pixeles" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="355" y="590" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L5HEDUzoinoEtIV4rbIi-0" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;DIAGRAMA DE PROCESO&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;LECTURA DE LA IMAGEN DE UN ENGRANAJE: CONTEO DE DIENTES Y CALCULO DEL RADIO EXTERNO&lt;br&gt;&lt;br&gt;Elaborado por: Fernando Gómez&lt;br&gt;Herramienta: MATLAB&lt;br&gt;Nombre: &#39;Script_Engranajes.m&lt;br&gt;Ubicación:&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="10" width="650" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
