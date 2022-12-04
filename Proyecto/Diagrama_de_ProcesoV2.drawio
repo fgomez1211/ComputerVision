@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T23:03:30.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wV3X4AkQQn7V7sWi9EfH" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T23:13:04.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nWtozNnIQ82c1pzBIksZ" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1489" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1291" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -49,13 +49,13 @@
         <mxCell id="OverbrRECvq1KNkHKfa8-14" value="&lt;b&gt;Binarización&lt;/b&gt; de la imagén y posteriormente la aplicación del &lt;b&gt;complemento&lt;/b&gt;." style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1430.3999999999999" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OverbrRECvq1KNkHKfa8-24" value="&lt;h1&gt;Sección 1&lt;/h1&gt;&lt;p&gt;Ejecución y captura de Imagenes&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1690" y="690" width="220" height="70" as="geometry" />
+        <mxCell id="OverbrRECvq1KNkHKfa8-24" value="&lt;h1&gt;Sección 1&lt;/h1&gt;&lt;p&gt;Ejecución del programa principal. Carga de estructuras. Definición de la cantidad de cartas a procesar. Muestra y almacenamiento de resultados.&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1690" y="690" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OverbrRECvq1KNkHKfa8-26" value="&lt;h1&gt;Sección 2&lt;/h1&gt;&lt;p&gt;Procesamiento de imagenes y aplicación de filtros&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="OverbrRECvq1KNkHKfa8-26" value="&lt;h1&gt;Sección 3&lt;/h1&gt;&lt;p&gt;Procesamiento de imagenes y aplicación de filtros&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1679.6" y="1150" width="230.2" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OverbrRECvq1KNkHKfa8-27" value="&lt;h1&gt;Sección 3&lt;/h1&gt;&lt;p&gt;Identificación de bordes, objetos y generación de propiedades de los mismos&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="OverbrRECvq1KNkHKfa8-27" value="&lt;h1&gt;Sección 4&lt;/h1&gt;&lt;p&gt;Identificación de bordes, objetos y generación de propiedades de los mismos&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1679.8" y="1370" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="OverbrRECvq1KNkHKfa8-33" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -64,7 +64,7 @@
             <mxPoint x="1655" y="471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OverbrRECvq1KNkHKfa8-42" value="&lt;h1&gt;Sección 4&lt;/h1&gt;&lt;p&gt;Proceso de identificación del símbolo de la carta.&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="OverbrRECvq1KNkHKfa8-42" value="&lt;h1&gt;Sección 5&lt;/h1&gt;&lt;p&gt;Proceso de identificación del símbolo de la carta.&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1690" y="1770" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="OverbrRECvq1KNkHKfa8-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OverbrRECvq1KNkHKfa8-43" target="OverbrRECvq1KNkHKfa8-46" edge="1">
@@ -365,14 +365,14 @@
         <mxCell id="OverbrRECvq1KNkHKfa8-138" value="Resultado almacenado en la variable: &#39;&lt;b&gt;lcarta&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=Verdana;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1329.8" y="2757.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OverbrRECvq1KNkHKfa8-150" value="&lt;h1&gt;Sección 5&lt;/h1&gt;&lt;p&gt;Proceso de identificación del número de la carta&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="OverbrRECvq1KNkHKfa8-150" value="&lt;h1&gt;Sección 6&lt;/h1&gt;&lt;p&gt;Proceso de identificación del número de la carta&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1690" y="2437.5" width="230" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="OverbrRECvq1KNkHKfa8-151" value="&lt;h1&gt;Sección 6&lt;/h1&gt;&lt;p&gt;Concatenación de resultados: Número y Símbolo de la carta.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="OverbrRECvq1KNkHKfa8-151" value="&lt;h1&gt;Sección 7&lt;/h1&gt;&lt;p&gt;Concatenación de resultados: Número y Símbolo de la carta.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1690" y="2930" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HIEnJzt94IWlRPfUagvC-0" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 52px; background-color: initial;&quot;&gt;DIAGRAMA DE PROCESO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0cm; font-family: Calibri, sans-serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Avenir Book&amp;quot;;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Sistema de Reconocimiento de Cartas de Juego&lt;/font&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="110" width="900" height="220" as="geometry" />
+        <mxCell id="HIEnJzt94IWlRPfUagvC-0" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 52px; background-color: initial;&quot;&gt;DIAGRAMA DE PROCESO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0cm; font-family: Calibri, sans-serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Avenir Book&amp;quot;;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Sistema de Reconocimiento de Cartas de Juego&lt;/font&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: Calibri, sans-serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Avenir Book&amp;quot;;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Elaborado por: Ing. Fernando José Gómez&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Avenir Book&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Visión por Computador&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Avenir Book&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Maestría de Ingeniería para la Industria con Especialización en Robótica&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="160" width="1055.3" height="220" as="geometry" />
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lt5BsjwWGhVhC6ZBDZQn-0" target="OverbrRECvq1KNkHKfa8-2">
           <mxGeometry relative="1" as="geometry" />
@@ -389,11 +389,11 @@
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-9" value="&lt;b&gt;Muestra&lt;/b&gt; &lt;b&gt;resultados&lt;/b&gt; y &lt;b&gt;tiempo&lt;/b&gt; promedio de &lt;b&gt;procesamiento&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="880" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#9999FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lt5BsjwWGhVhC6ZBDZQn-16" target="OverbrRECvq1KNkHKfa8-6">
+        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lt5BsjwWGhVhC6ZBDZQn-16" target="OverbrRECvq1KNkHKfa8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-16" value="Ejecución de &#39;Script0&#39; y captura de imagen. Almacenamiento en&lt;br&gt;&#39;&lt;b&gt;frame&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=10;fillColor=#CCCCFF;strokeColor=#CCCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="737.5" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-16" value="Ejecución de &#39;Script0&#39; y captura de imagen. Almacenamiento en&lt;br&gt;&#39;&lt;b&gt;frame&lt;/b&gt;&#39;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="955" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lt5BsjwWGhVhC6ZBDZQn-20" target="lt5BsjwWGhVhC6ZBDZQn-22">
           <mxGeometry relative="1" as="geometry" />
@@ -478,7 +478,7 @@
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-44" value="Se presentan los resultados.&lt;br&gt;Se muestran 4 imagenes:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1044.6" y="3140" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-49" value="Imagen Original&lt;br&gt;&#39;&lt;b&gt;frame&lt;/b&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-49" value="Imagen Original&lt;br&gt;&#39;&lt;b&gt;frame&lt;/b&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="789.8" y="3270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-50" value="Imagen en Escala de Grises&lt;br&gt;&#39;&lt;b&gt;ImgGray&lt;/b&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -526,8 +526,8 @@
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1624" y="1480" as="sourcePoint" />
-            <mxPoint x="1684" y="1480" as="targetPoint" />
+            <mxPoint x="1624" y="1615" as="sourcePoint" />
+            <mxPoint x="1684" y="1615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -538,8 +538,8 @@
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1623" y="1050" as="sourcePoint" />
-            <mxPoint x="1683" y="1050" as="targetPoint" />
+            <mxPoint x="1623" y="1040" as="sourcePoint" />
+            <mxPoint x="1683" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lt5BsjwWGhVhC6ZBDZQn-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -548,8 +548,17 @@
             <mxPoint x="1683" y="471.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-86" value="&lt;h1&gt;Sección 7&lt;/h1&gt;&lt;p&gt;Ploteo de imagenes y resultados. Finaliza el temporizador del proceso.&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-86" value="&lt;h1&gt;Sección 8&lt;/h1&gt;&lt;p&gt;Ploteo de imagenes y resultados. Finaliza el temporizador del proceso.&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1690" y="3320" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1623" y="930" as="sourcePoint" />
+            <mxPoint x="1683" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt5BsjwWGhVhC6ZBDZQn-88" value="&lt;h1&gt;Sección 2&lt;/h1&gt;&lt;p&gt;Captura de Imagenes&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=10;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1679.6" y="950" width="230.2" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
